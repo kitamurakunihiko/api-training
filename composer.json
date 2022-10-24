@@ -1,0 +1,17 @@
+{
+    "name": "kitamurakunihiko/http-handson",
+    "autoload": {
+        "psr-4": {
+            "Kitamurakunihiko\\HttpHandson\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kitamurakunihiko",
+            "email": "fourthkwitht_9292@yahoo.co.jp"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
